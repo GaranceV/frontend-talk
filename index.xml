@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frontend Talk Demo - Garance</title>
-    <link>https://garancev.github.io/frontend-talk/</link>
+    <link>http://garancev.github.io/frontend-talk/</link>
     <description>Recent content on Frontend Talk Demo - Garance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Jun 2017 13:32:52 +0200</lastBuildDate>
     
-	<atom:link href="https://garancev.github.io/frontend-talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://garancev.github.io/frontend-talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Frontend demo post</title>
-      <link>https://garancev.github.io/frontend-talk/post/frontend-demo/</link>
+      <link>http://garancev.github.io/frontend-talk/post/frontend-demo/</link>
       <pubDate>Sun, 04 Jun 2017 13:32:52 +0200</pubDate>
       
-      <guid>https://garancev.github.io/frontend-talk/post/frontend-demo/</guid>
+      <guid>http://garancev.github.io/frontend-talk/post/frontend-demo/</guid>
       <description> What&amp;rsquo;s that ? This post is an example for our frontend talk.
 We selected a theme from Hugo&amp;rsquo;s library, and this is determining all the styling you see.
 It was written entirely in Markdown, and we can use all the usual formatting we know.
